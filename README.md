@@ -1,0 +1,3 @@
+# Terminal Shell in C
+
+This project is based off a C-based tutorial on how to create a shell that reads, parses, and executes commands through the terminal. Because I enjoy C, and programming at a lower-level, I thought I would see how processes, system calls, and simple parsing techniques work. These are the fundamentals of a shell, so it makes sense to understand how everything works under the hood!
